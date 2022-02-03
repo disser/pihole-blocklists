@@ -1,2 +1,4 @@
 samsungads.com
 tvx.adgrx.com
+gpm.samsungqbe.com
+osb.samsungqbe.com
